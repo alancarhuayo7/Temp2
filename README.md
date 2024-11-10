@@ -21,4 +21,4 @@
 1. En la terminal, ejecutar el comando npx cypress open
 2. En la ventana de cypress, seleccionar la opción E2E Testing y seleccionar el navegador (De preferencia Edge)
 3. Seleccionar la prueba spec.cy.js
-4. Validar resultados de las pruebas en el directorio screenshots
+4. Validar resultados de las pruebas
